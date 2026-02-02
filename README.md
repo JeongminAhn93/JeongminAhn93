@@ -1,27 +1,28 @@
 ## Hi, I'm Jeongmin 👋
 
-Software Developer with 2+ years of professional experience in Japan,  
-currently based in Toronto, Canada and seeking full-time opportunities.
+Junior / Entry-level Software Developer based in Toronto, Canada,  
+with 2+ years of professional experience in Japan.
 
-I have hands-on experience in maintaining and improving production systems,
-working with Java, C/C++, SQL, and web technologies in real-world environments.
+I’m open to junior and entry-level roles and I enjoy building practical, maintainable solutions.
+My background includes working with production systems, database interactions, and team-based workflows.
 
-### 💼 Professional Experience Highlights
-- Developed and maintained Java-based Windows applications in enterprise environments
-- Worked with Oracle databases and implemented business logic improvements
-- Built UI components for internal iOS and web applications
-- Experienced with testing, documentation, and team-based development workflows
+### 💼 Experience Snapshot (Japan)
+- Developed and maintained Java-based enterprise Windows applications in a live production environment
+- Worked with Oracle databases (SQL) and updated business logic based on requirements
+- Contributed to internal UI development (iOS and web)
+- Supported stable releases through testing and documentation
 
 ### 🔧 Technical Skills
-- **Languages:** C/C++, Java, SQL
+- **Languages:** Java (primary), C/C++
+- **Databases:** Oracle (SQL), MySQL
 - **Web:** HTML, CSS, JavaScript
 - **Tools:** Git, Visual Studio, VS Code
-- **Databases:** Oracle, MySQL
 
 ### 📌 Projects
 - Academic and personal projects in C/C++, Java, and database systems
 - Selected projects include detailed README documentation
 
 ### 🔗 Links
-- **GitHub:** https://github.com/JeongminAhn93
-- **LinkedIn:** https://www.linkedin.com/in/jeongminahn93
+- LinkedIn: https://www.linkedin.com/in/jeongminahn93
+- Portfolio: https://jeongminahn93.github.io/
+- GitHub: https://github.com/JeongminAhn93
