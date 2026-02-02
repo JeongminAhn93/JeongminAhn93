@@ -1,6 +1,6 @@
 ## Hi, I'm Jeongmin 👋
 
-Junior Software Developer with 2+ years of professional experience in Japan,  
+Software Developer with 2+ years of professional experience in Japan,  
 currently based in Toronto, Canada and seeking full-time opportunities.
 
 I have hands-on experience in maintaining and improving production systems,
